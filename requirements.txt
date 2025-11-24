@@ -6,3 +6,6 @@ langchain
 openai
 playwright
 python-multipart
+pydantic-settings
+openai>=1.0.0
+backoff>=2.2.1
